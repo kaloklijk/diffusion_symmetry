@@ -1,4 +1,4 @@
-'''random_walk.py'''
+'''diffusion.py'''
 '''
  the diffusion symmetry(physics) group of a graph
  C[k][n] denote the number of times an element of the graph is visited under all random walk of size k
