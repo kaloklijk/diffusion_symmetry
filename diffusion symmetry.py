@@ -7,6 +7,7 @@ Di[k] denote nodes with distance k from s=0
 
 '''
 import math
+import pyomo
 import networkx as nx
 from sympy import symbols, Eq
 import numpy as np
